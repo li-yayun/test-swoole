@@ -1,5 +1,5 @@
 {
-	"name": "Lyy/dev-package",
+	"name": "lyy/dev-package",
 	"description": "swoole测试",
 	"autoload": {
 		"psr-4": {
