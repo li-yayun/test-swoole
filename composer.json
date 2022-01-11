@@ -3,7 +3,7 @@
 	"description": "swoole测试",
 	"autoload": {
 		"psr-4": {
-			"LyyPackage": "swoole\src"
+			"LyyPackage": "test-swoole"
 		}
 	}
 }
